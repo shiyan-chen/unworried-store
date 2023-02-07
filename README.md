@@ -2,8 +2,6 @@
 
 Northeastern University CS5520 (Mobile Application Development) - Final Project
 
-Group Members: Shiyan Chen, Zhijie Yang, Fangtong Zhao
-
 
 
 ## Showcase
